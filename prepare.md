@@ -5,7 +5,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本机器人研究院重点进行机器人应用研究，在智能感知基础上的通过计算机实时控制机器人，实现全自动加工生产。同时，实现流水线上多台机器人协同控制，最终实现真正意义上的智能制造。
 
 ## 二、设立远景
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过几年的建设，结合本研究院建设，将余姚长三角机器人博览城打造成立足宁波，辐射长三角乃至全国的机器人集成应用创新工程中心，集产品研发、系统集成、人才支持于一体的机器人产业集聚中心。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过几年的建设，结合本研究院建设，将余姚长三角机器人博览城打造成立足宁波，辐射长三角乃至全国的机器人集成应用创新工程中心，综合供应商、产业需求、科技创新和高等教育四大方面优质资源，集产品研发、系统集成、人才支持于一体的机器人产业集聚中心。
+<center>
+   <img src="https://raw.githubusercontent.com/kingsone995/kingsone995.github.io/master/stepbystep/second.png" > 
+</center>
 
 ## 三、实现路径
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 通过结合余姚本地企业实际生产需求，建设一条全自动机器人生产线。
